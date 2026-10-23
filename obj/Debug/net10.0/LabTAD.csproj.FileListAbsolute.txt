@@ -1,0 +1,14 @@
+/home/lu/Desktop/SI/SI NOTEBOOK/AED/workspace/LabTAD/bin/Debug/net10.0/LabTAD
+/home/lu/Desktop/SI/SI NOTEBOOK/AED/workspace/LabTAD/bin/Debug/net10.0/LabTAD.deps.json
+/home/lu/Desktop/SI/SI NOTEBOOK/AED/workspace/LabTAD/bin/Debug/net10.0/LabTAD.runtimeconfig.json
+/home/lu/Desktop/SI/SI NOTEBOOK/AED/workspace/LabTAD/bin/Debug/net10.0/LabTAD.dll
+/home/lu/Desktop/SI/SI NOTEBOOK/AED/workspace/LabTAD/bin/Debug/net10.0/LabTAD.pdb
+/home/lu/Desktop/SI/SI NOTEBOOK/AED/workspace/LabTAD/obj/Debug/net10.0/LabTAD.GeneratedMSBuildEditorConfig.editorconfig
+/home/lu/Desktop/SI/SI NOTEBOOK/AED/workspace/LabTAD/obj/Debug/net10.0/LabTAD.AssemblyInfoInputs.cache
+/home/lu/Desktop/SI/SI NOTEBOOK/AED/workspace/LabTAD/obj/Debug/net10.0/LabTAD.AssemblyInfo.cs
+/home/lu/Desktop/SI/SI NOTEBOOK/AED/workspace/LabTAD/obj/Debug/net10.0/LabTAD.csproj.CoreCompileInputs.cache
+/home/lu/Desktop/SI/SI NOTEBOOK/AED/workspace/LabTAD/obj/Debug/net10.0/LabTAD.dll
+/home/lu/Desktop/SI/SI NOTEBOOK/AED/workspace/LabTAD/obj/Debug/net10.0/refint/LabTAD.dll
+/home/lu/Desktop/SI/SI NOTEBOOK/AED/workspace/LabTAD/obj/Debug/net10.0/LabTAD.pdb
+/home/lu/Desktop/SI/SI NOTEBOOK/AED/workspace/LabTAD/obj/Debug/net10.0/LabTAD.genruntimeconfig.cache
+/home/lu/Desktop/SI/SI NOTEBOOK/AED/workspace/LabTAD/obj/Debug/net10.0/ref/LabTAD.dll
